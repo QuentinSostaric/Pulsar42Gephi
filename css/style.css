@@ -24,7 +24,7 @@ html,body {
 	font-size: 12px;
 	font-family: sans-serif;
 	line-height:1.25em;
-	background-color: #001926;
+	background-color: #fff;
 }
 
 .sigma-parent {
@@ -38,7 +38,7 @@ html,body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: #001926;
+	background-color: #fff;
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-touch-callout: none;
