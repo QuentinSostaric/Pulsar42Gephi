@@ -77,7 +77,7 @@ canvas#sigma_bg_1 {
 }
 
 #attributepane .headertext {
-	color: #000;
+	color: #fff;
 	margin-bottom: 5px;
 	height: 14px;
 	border-bottom: 1px solid #999;
@@ -422,6 +422,7 @@ background-position: -11px -119px;
 
 #mainpanel .edge {
 background-position: -51px -122px;
+color: rgba(255, 255, 255, 0.281);
 }
 
 #mainpanel .colours {
