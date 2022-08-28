@@ -65,7 +65,7 @@ canvas#sigma_bg_1 {
 	background-color: #001926;
 	margin: 0;
 	word-wrap: break-word;
-	background-color:#ffffffcc;
+	background-color:#001926;
 	border-left: 1px solid #ccc;
 	padding: 0px 18px 0px 18px;	
 	z-index: 1;
@@ -74,6 +74,7 @@ canvas#sigma_bg_1 {
 
 #attributepane .text {
 	height:100%;
+	color: #fff;
 }
 
 #attributepane .headertext {
