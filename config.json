@@ -3,19 +3,19 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
-    "text": "Me"
+    "file": "Sigle_03.png",
+    "link": "https://pulsar42.sc/home",
+    "text": "TheSamon"
   },
   "text": {
-    "more": "This is a long test",
-    "intro": "This is a test",
-    "title": ""
+    "more": "Pulsar42\u0027s followers and thier followers in a nutshell",
+    "intro": "Pulsar42\u0027s followers and thier followers in a nutshell",
+    "title": "Pulsar42's Twitter network graph"
   },
   "legend": {
-    "edgeLabel": "1000000000",
-    "colorLabel": "",
-    "nodeLabel": "1000000000"
+    "edgeLabel": "58889",
+    "colorLabel": "Blue",
+    "nodeLabel": "4768"
   },
   "features": {
     "search": true,
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "profile_image_url_https"
   },
   "sigma": {
     "drawingProperties": {
