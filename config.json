@@ -3,7 +3,7 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "Sigle_03.png",
+    "file": "./Sigle_00.png",
     "link": "https://pulsar42.sc/home",
     "text": "TheSamon"
   },
